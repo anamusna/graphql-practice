@@ -1,1 +1,1 @@
-# graphql-practice
+# graphql-practice with mongodb mongoose and express

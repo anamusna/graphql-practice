@@ -1,0 +1,27 @@
+.App {
+}
+.bookList {
+}
+.bookLibrary {
+	max-width: 60%;
+	margin: auto;
+	padding-top: 5%;
+}
+.book {
+	padding: 5px;
+	margin: auto;
+	max-width: 60%;
+}
+.book li span {
+	margin: 5px;
+	padding: 5px;
+}
+
+@media (max-width: 992px) {
+	.bookLibrary {
+		max-width: 80%;
+	}
+	.book {
+		max-width: 100%;
+	}
+}
